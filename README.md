@@ -2,7 +2,7 @@
 
 In this project, we propose a real-time stock price prediction model based on market trends and historical stock prices. <br/>
 We wanted to see if real time market trends and news have any impact on stock prices.
-We have combined historical prices with sentiment analysis to build a hybrid model using Apache Spark framework. We use Spark Streaming service to build the model in real-time. 
+We have combined historical prices with sentiment analysis to build a hybrid model using Apache Spark framework. Used Spark Streaming service to build the model in real-time. 
 
 ### Details:
 

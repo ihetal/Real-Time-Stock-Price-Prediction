@@ -7,7 +7,7 @@ We have combined historical prices with sentiment analysis to build a hybrid mod
 ### Details:
 
 #### Data Source:
-- Intra Day Stock Price: We found historical intra day stock prices for IBM from here http://www.kibot.com/free_historical_data.aspx. And we have used Yahoo Finance to get real time prices.
+- Intra Day Stock Price: We found historical intra day stock prices for IBM from here http://www.kibot.com/free_historical_data.aspx. And we have used Yahoo Finance with spark streaming to get real time prices.
 - News Data- Built a scrapper in python to collected archived news from WSJ News and Reuters. Combined this scrapper with spark streaming to get real time market trends and news.
 
 #### Development Pipeline:
